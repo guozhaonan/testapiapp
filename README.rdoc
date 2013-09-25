@@ -1,1 +1,3 @@
-This is a test application in order to test out the [Twilio API](http://www.twilio.com/sms) as well as the [Google API's](https://developers.google.com/) and [Facebook API](http://www.facebook.com/developers)
+#TestAPIAPP
+
+This is a test application for testing out the [Twilio API](http://www.twilio.com/sms) as well as the [Google API's](https://developers.google.com/) and [Facebook API](http://www.facebook.com/developers)
