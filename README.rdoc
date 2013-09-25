@@ -1,3 +1,1 @@
 This is a test application in order to test out the Twilio api as well as Facebook and Google Authentication and maps api 
-<a href= "google.com/maps">Google Maps</a>
-<a href= "facebook.com/developers">Facebook Open Graph API</a>
